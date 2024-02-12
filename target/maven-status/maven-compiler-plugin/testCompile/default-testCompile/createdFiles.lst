@@ -1,0 +1,10 @@
+api\endpoints\UserEndPoints2.class
+api\utilities\DataProviders.class
+api\tests\DataDrivenTests.class
+api\endpoints\UserEndPoints.class
+api\payloads\User.class
+api\utilities\ExcelReader.class
+api\tests\UserTests.class
+api\tests\UserTests2.class
+api\endpoints\Routes.class
+api\utilities\ExtentReport.class
